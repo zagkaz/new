@@ -1,11 +1,6 @@
 .hand.corner {
     top: 1px!important
-}
 
-label.fl.label.loginstat.label-warning {
-    background-color: hsl(0,0%,0%);
-    color: hsl(90,100%,50%);
-    width: auto
 }
 
 .ae.fa.chats.label.fa-comment.label-warning.fa-comment:before,.ae.fa.chats.label.fa-comment.label-primary.fa-comment:before {
@@ -34,13 +29,7 @@ label.fl.label.loginstat.label-warning {
 
 h3.popover-title,.fa-gear:before,.fa-cog:before,.fa-commenting-o:before,.fa-group:before,.fa-users:before,span.border,.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment:before,.fa-envelope-o:before,.fa-diamond:before,.fa-search:before,.fa-ban:before,.fa-ban:before,.fa-user-times:before {
     display: none
-}
 
-label.fl.nosel.label.pnhead {
-    color: #fff;
-    background-color: #171790;
-    font-size: 15.8px!important
-    padding: 8px;width: 85%;display: block
 }
 
 .u-msg.break.fl,.fl.u-msg,.uzr {
@@ -51,10 +40,6 @@ a#asim21,div#tlogins button.btn.btn-primary,label.label.label-primary.mini.fl {
     background-color: #4A2222!important
 }
 
-img.fl.u-ico {
-    pointer-events: none
-}
-
 body {
     background-color: #e2e2e2!important
 }
@@ -62,10 +47,6 @@ body {
 span.busers.minix.badge.border {
     display: -webkit-inline-box;
     background-color: #ffffff00
-}
-
-div#tlogins img.fl.u-ico {
-    margin-top: 8px!important
 }
 
 div#tlogins span.corner.u-topic.dots {
