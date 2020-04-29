@@ -48,7 +48,7 @@ label.fl.nosel.label.pnhead {
 }
 
 a#asim21,div#tlogins button.btn.btn-primary,label.label.label-primary.mini.fl {
-    background-color: #171790!important
+    background-color: #4A2222!important
 }
 
 img.fl.u-ico {
@@ -111,70 +111,7 @@ span.border {
 .tbox {
     padding: 5px;
     min-height: 32px
-}
 
-input#u1,input#u2,input#pass1,input#u3,input#pass2 {
-    width: 74%;
-    height: 29px
-}
-
-ul.nav.nav-tabs>li>a {
-    color: #fff;
-    border: none;
-    text-align: center;
-    background-color: #171790;
-    border-radius: 3px;
-    display: initial;
-    width: 80%;
-    float: left;
-    padding: 0!important
-}
-
-ul.nav.nav-tabs>li.active>a {
-    color: #fff;
-    background-color: #171790;
-    border: none;
-    border-radius: 3px
-}
-
-ul.nav.nav-tabs>li {
-    width: 32%;
-    margin: 0 5px 0 0
-}
-
-ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.nav.nav-tabs>li>.fa-user:before {
-    float: right;
-    margin-right: -26%;
-    border: 1px solid;
-    padding: 0 2px 1px;
-    border-radius: 3px;
-    width: 23px;
-    text-align: center;
-    background-color: #fff;
-    color: #171790
-}
-
-.nav>li>a:focus,.nav>li>a:hover {
-    color: #9abff9
-}
-
-ul.nav.nav-tabs {
-    background-color: #f5fdff!important;
-    border-top: 1px solid #ddd;
-    margin-top: 1px;
-    float: right;
-    width: 100%;
-    padding: 3px 1px
-}
-
-input#u1,input#u2,input#pass1,input#u3,input#pass2 {
-    width: 61%;
-    height: 31px;
-    margin-left: 40.5px;
-    margin-bottom: 5.5px;
-    border: 1px solid #94adc1;
-    border-radius: 3px;
-    text-align: center
 }
 
 div#asim13 {
@@ -354,18 +291,6 @@ div#tlogins .fl.mini.u-msg {
     border: 1px solid hsl(186,45%,88%)
 }
 
-img.fitimg.fl.u-pic {
-    background-size: cover;
-    border-radius: 3px!important;
-    padding: 18px;
-    border: 1px solid#e8e8e8
-}
-
-.fl.ustat {
-    margin-top: 1px;
-    border-radius: 25%!important
-}
-
 .fl.mini.fa.fa-microphone.btn.btnn-default,.fl.mini.fa.fa-phone.btn.btnn-default {
     font-size: 14px!important;
     width: 49%;
@@ -388,16 +313,6 @@ input[type="asim"] {
     margin-bottom: 6px;
     margin-top: 6px;
     margin-left: 5px
-}
-
-img.fl.u-pic {
-    border-radius: 72%!important
-}
-
-img.fl.fitimg.hand.u-pic {
-    border-radius: 100%!important;
-    margin-top: 4px!important;
-    margin-right: 4px!important
 }
 
 #asim29 {
